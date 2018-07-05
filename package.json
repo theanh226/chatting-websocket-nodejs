@@ -1,0 +1,24 @@
+{
+  "name": "chatting-websocket-nodejs",
+  "version": "1.0.0",
+  "description": "this  for chatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theanh226/chatting-websocket-nodejs.git"
+  },
+  "author": "The Anh Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theanh226/chatting-websocket-nodejs/issues"
+  },
+  "homepage": "https://github.com/theanh226/chatting-websocket-nodejs#readme",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5",
+    "socket.io": "^2.1.1"
+  }
+}
